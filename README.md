@@ -34,4 +34,4 @@ Please cite this work if it is useful for your research:
 
 ### Author:
 
-Albert Aparicio ([e-mail](albert.aparicio.isarn@gmail.com))
+Albert Aparicio Isarn ([e-mail](albert.aparicio.isarn@gmail.com))
