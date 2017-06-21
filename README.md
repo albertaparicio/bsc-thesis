@@ -1,3 +1,5 @@
+[![Download PDF](https://img.shields.io/badge/Download-PDF-brightgreen.svg)](http://upcommons.upc.edu/bitstream/handle/2117/105638/AparicioAlbert_FinalReport.pdf?sequence=1&isAllowed=y)
+
 # BSc Thesis: Voice Conversion using Deep Learning
 
 BSc thesis on applying Deep Learning to convert the speaker features on voice signals, presented in [Telecom BCN](http://etsetb.upc.edu/en), Barcelona on May 2017
